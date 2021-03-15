@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '... [health]'" />
-    <option name="defaultScopeName" value="Directory '... [health]'" />
-    <option name="SEARCH_SCOPE" value="Directory '... [health]'" />
+    <option name="customScope" value="File '...\nirun_observation\models\vital_sign.py [nirun]'" />
+    <option name="defaultScopeName" value="File '...\nirun_observation\models\vital_sign.py [nirun]'" />
+    <option name="SEARCH_SCOPE" value="File '...\nirun_observation\models\vital_sign.py [nirun]'" />
   </component>
 </application>
