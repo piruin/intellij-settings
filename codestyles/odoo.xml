@@ -65,6 +65,16 @@
           <rule>
             <match>
               <AND>
+                <NAME>string</NAME>
+                <XML_ATTRIBUTE />
+              </AND>
+            </match>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
                 <NAME>ref</NAME>
                 <XML_ATTRIBUTE />
               </AND>
