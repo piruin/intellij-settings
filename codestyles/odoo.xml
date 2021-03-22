@@ -1,6 +1,5 @@
 <code_scheme name="odoo" version="173">
   <option name="LINE_SEPARATOR" value="&#10;" />
-  <option name="RIGHT_MARGIN" value="80" />
   <CsvCodeStyleSettings>
     <option name="TRIM_LEADING_WHITE_SPACES" value="true" />
     <option name="TRIM_TRAILING_WHITE_SPACES" value="true" />
